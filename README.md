@@ -1,2 +1,2 @@
 # ReactJS
-My react web apps
+A small Glimpse of my web dev journey :) 
