@@ -1,2 +1,3 @@
-# ReactJS
-A small Glimpse of my web dev journey :) 
+# BAsic Calculator
+A simple minimalistic calculator for my first project made Usinf HTML, CSS, JS
+
